@@ -10,9 +10,10 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
-<h1 align="center">Landmark is a backend IT company developing and supporting quality  Software Solutions to millions of clients such as Tesla.
-	           We are raising over 1m millionaires by 2035.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">Welcome to Landmark Technologies.....we have a demo on Dev0ps E Degree with Linus and AWS on Sunday October 9, 200 at 3pm EST for out new batch.
+	       Landmark Technology Tesla web application project2.
+	       </h1>
+	<h1 align="center" >Dev0ps is good. jesus is Lord. I am blessed. Production</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
